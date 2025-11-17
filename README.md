@@ -6,7 +6,7 @@ O usuário escolhe a moeda de origem e destino, informa o valor e recebe o resul
 
 <h2>🚀 Funcionalidades</h2>
 
-Lista de moedas disponíveis para conversão
+<h3>Lista de moedas disponíveis para conversão</h3>
 
 <li>Entrada de dados pelo teclado</li>
 
