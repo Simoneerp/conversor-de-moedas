@@ -4,11 +4,11 @@ Conversor de Moedas - Challenge Alura e Oracle(ONE).
 Este projeto é um conversor de moedas simples, feito em Java, que consulta uma API de taxas de câmbio para realizar a conversão entre diferentes moedas.
 O usuário escolhe a moeda de origem e destino, informa o valor e recebe o resultado convertido.
 
-🚀 Funcionalidades
+<h2>🚀 Funcionalidades</h2>
 
 Lista de moedas disponíveis para conversão
 
-Entrada de dados pelo teclado
+<li>Entrada de dados pelo teclado</li>
 
 Consulta de câmbio através de API
 
