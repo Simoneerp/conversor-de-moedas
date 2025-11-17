@@ -11,11 +11,13 @@ Consulta de câmbio através de API
 Tratamento para moedas inválidas
 Opção de SAIR a qualquer momento
 Código organizado em classes (Main e ConversorDeMoedas).
+
 🔧 Tecnologias utilizadas
 Java (JDK 22)
 Biblioteca Gson para trabalhar com JSON
 HttpClient e HttpRequest para acessar a API
 API de câmbio: Exchangerate API (ou similar, dependendo da sua URL).
+
 ⚠️ Tratamento de erros
 ✔ Moeda inválida
 
