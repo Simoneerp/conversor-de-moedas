@@ -8,6 +8,8 @@ O usuário escolhe a moeda de origem e destino, informa o valor e recebe o resul
 
 <h3>Lista de moedas disponíveis para conversão</h3>
 
+<li> Moedas disponíveis: USD (Dólar Americano), ARS (Peso Argentino), PYG (Guarani Paraguaio) e  CLP (Peso Chileno) </li>
+
 <li>Entrada de dados pelo teclado</li>
 
 <li>Consulta de câmbio através de API</li>
@@ -30,21 +32,21 @@ API de câmbio: Exchangerate API (ou similar, dependendo da sua URL).
 
 <h2>⚠️ Tratamento de erros</h2>
 
-Moeda inválida
+✔ Moeda inválida
 
-Erros de conexão com a API
+✔ Erros de conexão com a API
 
-Opção de sair com a palavra SAIR
+✔ Opção de sair com a palavra SAIR
 
-<h2>📌 Melhorias futuras</h2>h2>
+<h2>📌 Melhorias futuras</h2>
 
-Interface gráfica (JavaFX)
+✔ Interface gráfica (JavaFX)
 
-Suporte a mais moedas
+✔ Suporte a mais moedas
 
-Histórico de conversões
+✔ Histórico de conversões
 
-Testes unitários
+✔ Testes unitários
 
 <h2>🧑‍💻 Autora </h2>
 
