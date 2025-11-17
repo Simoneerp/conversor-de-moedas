@@ -22,13 +22,13 @@ O usuário escolhe a moeda de origem e destino, informa o valor e recebe o resul
 
 <h2>🔧 Tecnologias utilizadas </h2>
 
-Java (JDK 22)
+<li>Java (JDK 22)</li>
 
-Biblioteca Gson para trabalhar com JSON
+<li>Biblioteca Gson para trabalhar com JSON</li>
 
-HttpClient e HttpRequest para acessar a API
+<li>HttpClient e HttpRequest para acessar a API</li>
 
-API de câmbio: Exchangerate API (ou similar, dependendo da sua URL).
+<li>API de câmbio: Exchangerate API (ou similar, dependendo da sua URL).</li>
 
 <h2>⚠️ Tratamento de erros</h2>
 
