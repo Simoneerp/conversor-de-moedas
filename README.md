@@ -8,15 +8,15 @@ O usuário escolhe a moeda de origem e destino, informa o valor e recebe o resul
 
 <h3>Lista de moedas disponíveis para conversão</h3>
 
-<li>Entrada de dados pelo teclado
+<li>Entrada de dados pelo teclado</li>
 
-Consulta de câmbio através de API
+<li>Consulta de câmbio através de API</li>
 
-Tratamento para moedas inválidas
+<li>Tratamento para moedas inválidas</li>
 
-Opção de SAIR a qualquer momento
+<li>Opção de SAIR a qualquer momento</li>
 
-Código organizado em classes (Main e ConversorDeMoedas).</li>
+<li>Código organizado em classes (Main e ConversorDeMoedas).</li>
 
 🔧 Tecnologias utilizadas
 
