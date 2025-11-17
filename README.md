@@ -18,7 +18,7 @@ O usuário escolhe a moeda de origem e destino, informa o valor e recebe o resul
 
 <li>Código organizado em classes (Main e ConversorDeMoedas).</li>
 
-🔧 Tecnologias utilizadas
+<h2>🔧 Tecnologias utilizadas </h2>
 
 Java (JDK 22)
 
@@ -28,7 +28,7 @@ HttpClient e HttpRequest para acessar a API
 
 API de câmbio: Exchangerate API (ou similar, dependendo da sua URL).
 
-⚠️ Tratamento de erros
+<h2>⚠️ Tratamento de erros</h2>
 
 Moeda inválida
 
@@ -36,7 +36,7 @@ Erros de conexão com a API
 
 Opção de sair com a palavra SAIR
 
-📌 Melhorias futuras
+<h2>📌 Melhorias futuras</h2>h2>
 
 Interface gráfica (JavaFX)
 
@@ -46,7 +46,7 @@ Histórico de conversões
 
 Testes unitários
 
-🧑‍💻 Autora
+<h2>🧑‍💻 Autora </h2>
 
 Simone Fatima da Silva
 💼 Projeto de estudo em Java
